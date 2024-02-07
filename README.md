@@ -1,6 +1,6 @@
 Hi, I’m @joskni
-Currently studying at UoS, Brighton \n
-Interested in Embedded Systems and Control Theory
+- Currently studying at UoS, Brighton.
+- Interested in Embedded Systems and Control Theory
 
 <!---
 joskni/joskni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
