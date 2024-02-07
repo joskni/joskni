@@ -1,5 +1,5 @@
 Hi, I’m @joskni
-Currently studying at UoS, Brighton
+Currently studying at UoS, Brighton /n
 Interested in Embedded Systems and Control Theory
 
 <!---
